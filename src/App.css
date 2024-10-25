@@ -1,0 +1,17 @@
+.section{
+  margin: 0 auto;
+  max-width: 94rem;
+}
+
+.from-section{
+  width: 60%;
+
+}
+
+.pacientes{
+  border: 1px solid rgba(0, 0, 0, 0.288);
+  border-radius: 5px;
+  padding: 2rem;
+  margin-top: 1rem;
+  background-color: rgb(243, 242, 242);
+}
